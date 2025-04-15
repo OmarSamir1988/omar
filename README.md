@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Omar Samir]
+# 👋 Hi there, I'm Omar Samir
 
 I'm a passionate Software Engineer with a strong foundation in developing innovative solutions. My expertise spans across multiple programming languages and frameworks.
 
